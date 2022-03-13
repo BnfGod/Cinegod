@@ -1,0 +1,31 @@
+Actividad 2 (D08)
+
+Cine:
+	salas[7]
+Sala:
+	película
+	horarios[5]
+	n asientos hasta con 5 horarios de disponibilidad
+	contExposiciones
+Cliente:
+	id
+	nombre
+	pelicula
+	horario
+	asiento
+	sala
+Pelicula:
+	nombre
+	duracion
+	director
+	horario
+	sala
+Asiento:
+	Cliente
+comprobar que la sala que elegi se este transmitiendo la misma pelicula
+
+--------------------------------------------------------------------------------------------
+
+Cine:
+	clientes[2800]
+	peliculas[35]
